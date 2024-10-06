@@ -14,20 +14,22 @@ Tefteri is a simple and convenient Android application designed for consumers in
 
 5. AADE and SoftOne Support: The current version of Tefteri supports retail cash receipts transmitted to AADE (Independent Authority for Public Revenue) and receipts from the einvoicing system of SoftOne.
 
-# Video Showcase
-
-https://www.youtube.com/shorts/2Dona4s4NXU
+6. Support for 3 languages (English/Greek/Italian)
 
 # Screenshots
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/chriszaro/Tefteri/blob/d64d82e93ed6a280286a9e2b8b0dc774130acea7/Screenshots/tefteri_01.jpg" height="280">
-  <img src="https://github.com/chriszaro/Tefteri/blob/d64d82e93ed6a280286a9e2b8b0dc774130acea7/Screenshots/tefteri_02.jpg" height="280">
-  <img src="https://github.com/chriszaro/Tefteri/blob/d64d82e93ed6a280286a9e2b8b0dc774130acea7/Screenshots/tefteri_03.jpg" height="280">
-  <img src="https://github.com/chriszaro/Tefteri/blob/d64d82e93ed6a280286a9e2b8b0dc774130acea7/Screenshots/tefteri_04.jpg" height="280">
-  <img src="https://github.com/chriszaro/Tefteri/blob/d64d82e93ed6a280286a9e2b8b0dc774130acea7/Screenshots/tefteri_05.jpg" height="280">
-  <img src="https://github.com/chriszaro/Tefteri/blob/d64d82e93ed6a280286a9e2b8b0dc774130acea7/Screenshots/tefteri_06.jpg" height="280">
+  <img src="https://github.com/chriszaro/tefteri_apk/blob/92e5e6ed2a04d5cf0b76cb724f5eef125db41d40/screenshots%20tefteri/screenshot_1.jpg" height="280">
+  <img src="https://github.com/chriszaro/tefteri_apk/blob/92e5e6ed2a04d5cf0b76cb724f5eef125db41d40/screenshots%20tefteri/screenshot_2.jpg" height="280">
+  <img src="https://github.com/chriszaro/tefteri_apk/blob/92e5e6ed2a04d5cf0b76cb724f5eef125db41d40/screenshots%20tefteri/screenshot_3.jpg" height="280">
+  <img src="https://github.com/chriszaro/tefteri_apk/blob/92e5e6ed2a04d5cf0b76cb724f5eef125db41d40/screenshots%20tefteri/screenshot_4.jpg" height="280">
+  <img src="https://github.com/chriszaro/tefteri_apk/blob/92e5e6ed2a04d5cf0b76cb724f5eef125db41d40/screenshots%20tefteri/screenshot_5.jpg" height="280">
+  <img src="https://github.com/chriszaro/tefteri_apk/blob/92e5e6ed2a04d5cf0b76cb724f5eef125db41d40/screenshots%20tefteri/screenshot_6.jpg" height="280">
 </div>
+
+# Video Showcase (Old Version, Greek Only) 
+
+https://www.youtube.com/shorts/2Dona4s4NXU
 
 # Meet the Tefteri Team
 
