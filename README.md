@@ -1,6 +1,6 @@
 # Tefteri
 
-Tefteri is a simple and convenient Android application designed for consumers in the Greek market to keep track of their purchases. The app allows users to easily record and manage their receipts, providing a hassle-free way to organize expenses.
+Tefteri is a simple expenses tracker app for Android, designed for the Greek market. It lets users quickly scan and save receipts using a QR scanner, supporting most local invoicing systems. With a clean filter summary, it helps users effortlessly monitor their spending.
 
 # Features
 
